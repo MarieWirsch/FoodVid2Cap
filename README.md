@@ -132,10 +132,4 @@ Available from: https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4926/4799
  <sup>3</sup> *Lin, Chin-Yew. "Rouge: A package for automatic evaluation of summaries."
   Text summarization branches out. 2004.* <br /> 
   Available from: https://www.aclweb.org/anthology/W04-1013
- #   F o o d V i d 2 C a p  
- #   F o o d V i d 2 C a p  
- #   F o o d V i d 2 C a p  
- #   F o o d V i d 2 C a p  
- #   F o o d V i d 2 C a p  
- #   F o o d V i d 2 C a p  
- 
+
