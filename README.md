@@ -5,7 +5,7 @@
 * Marie Brei (marie.brei@tum.de)
 
 This repository contains code for a sequence-to-sequence model with attention mechanism for video captioning 
-in the Zero-Shot setting. We adapted the model architecture for Zero-Shot Learning (ZSL) and the 
+in the Zero-Shot setting. In the scope of the Advanced Deep Learning for Computer Vision course at TUM, we adapted the model architecture for Zero-Shot Learning (ZSL) and the 
 [YouCook2 dataset](http://youcook2.eecs.umich.edu/) on the basis of the work from <sup>1</sup>
 and show strong captioning capabilities for videos of recipe types 
 that have never been seen at training time. Some exemplary captioning results are shown in the following figure.
